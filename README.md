@@ -33,15 +33,15 @@ NEU-DET Surface Defect Dataset used as surrogate
 for proprietary aerospace parts imagery.
 
 ## Defect Classes
-| Class | Description |
-|---|---|
-| surface_scratch | Linear surface damage |
-| structural_crack | Fracture in material |
-| corrosion_pit | Localized corrosion damage |
-| coating_damage | Surface coating failure |
-| material_inclusion | Foreign material embedded |
-| surface_irregularity | Non-uniform surface finish |
 
+| Class | Description |
+| :--- | :--- |
+| `surface_scratch` | Linear surface damage |
+| `structural_crack` | Fracture in material |
+| `corrosion_pit` | Localized corrosion damage |
+| `coating_damage` | Surface coating failure |
+| `material_inclusion` | Foreign material embedded |
+| `surface_irregularity` | Non-uniform surface finish |
 ## Project Progress
 - [x] Day 1 - Project setup + data pipeline
 - [ ] Day 2 - OpenCV preprocessing
