@@ -1,0 +1,12 @@
+ultralytics
+opencv-python
+albumentations
+torch
+torchvision
+fastapi
+uvicorn
+onnxruntime
+numpy
+Pillow
+python-multipart
+pyyaml
