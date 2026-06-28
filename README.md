@@ -34,7 +34,7 @@ for proprietary aerospace parts imagery.
 
 ## Defect Classes
 | Class | Description |
-
+|---|---|
 | surface_scratch | Linear surface damage |
 | structural_crack | Fracture in material |
 | corrosion_pit | Localized corrosion damage |
