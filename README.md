@@ -55,4 +55,9 @@ for proprietary aerospace parts imagery.
 - [ ] Day 10 - Final cleanup
 
 ## Results
-*To be updated after Day 4 training*
+
+### Defect Visualization
+All 6 defect classes successfully annotated and visualized.
+Bounding box conversion (Pascal VOC XML → YOLO) verified correct.
+
+![Defect Classes](results/defect_visualization.png)
