@@ -44,7 +44,7 @@ for proprietary aerospace parts imagery.
 | `surface_irregularity` | Non-uniform surface finish |
 ## Project Progress
 - [x] Day 1 - Project setup + data pipeline
-- [ ] Day 2 - OpenCV preprocessing
+- [x] Day 2 - OpenCV preprocessing
 - [ ] Day 3 - YOLOv11 training
 - [ ] Day 4 - Model evaluation
 - [ ] Day 5 - ONNX export
