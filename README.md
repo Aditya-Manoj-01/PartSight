@@ -32,6 +32,9 @@ Image Input → OpenCV Preprocessing → YOLOv11 Detection
 NEU-DET Surface Defect Dataset used as surrogate
 for proprietary aerospace parts imagery.
 
+## Tips before training the model Augmebtation most important working on augmentation 
+
+
 ## Defect Classes
 
 | Class | Description |
