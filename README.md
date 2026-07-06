@@ -48,7 +48,7 @@ for proprietary aerospace parts imagery.
 ## Project Progress
 - [x] Day 1 - Project setup + data pipeline
 - [x] Day 2 - OpenCV preprocessing
-- [ ] Day 3 - YOLOv11 training
+- [x] Day 3 - YOLOv11 training
 - [ ] Day 4 - Model evaluation
 - [ ] Day 5 - ONNX export
 - [ ] Day 6 - FastAPI endpoint
