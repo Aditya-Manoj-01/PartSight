@@ -60,6 +60,7 @@ for proprietary aerospace parts imagery.
 
 Day 7 — resuming code review (Cells 5-7) next session.
 Day8 working
+Day 9 no friday
 ## Results
 
 ### Defect Visualization
